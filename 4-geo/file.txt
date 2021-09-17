@@ -1,0 +1,287 @@
+Штаты, которые граничат: 
+
+
+Wisconsin - Wisconsin
+Wisconsin - Michigan
+Wisconsin - Illinois
+Wisconsin - Minnesota
+Wisconsin - Iowa
+
+Vermont - Vermont
+Vermont - New Hampshire
+Vermont - Massachusetts
+
+New Jersey - New Jersey
+New Jersey - Delaware
+New Jersey - Pennsylvania
+
+Colorado - Colorado
+Colorado - Oklahoma
+Colorado - New Mexico
+Colorado - Arizona
+Colorado - Nebraska
+Colorado - Kansas
+Colorado - Utah
+Colorado - Wyoming
+
+South Carolina - South Carolina
+South Carolina - Georgia
+South Carolina - North Carolina
+
+Oklahoma - Colorado
+Oklahoma - Oklahoma
+Oklahoma - New Mexico
+Oklahoma - Kansas
+Oklahoma - Arkansas
+Oklahoma - Texas
+Oklahoma - Missouri
+
+Indiana - Indiana
+Indiana - Michigan
+Indiana - Illinois
+Indiana - Ohio
+
+Montana - Montana
+Montana - Idaho
+Montana - South Dakota
+Montana - Wyoming
+Montana - North Dakota
+
+Maryland - Maryland
+Maryland - District of Columbia
+Maryland - Virginia
+Maryland - Delaware
+Maryland - West Virginia
+Maryland - Pennsylvania
+
+New Mexico - Colorado
+New Mexico - Oklahoma
+New Mexico - New Mexico
+New Mexico - Arizona
+New Mexico - Texas
+New Mexico - Utah
+
+District of Columbia - Maryland
+District of Columbia - District of Columbia
+District of Columbia - Virginia
+
+Arizona - Colorado
+Arizona - New Mexico
+Arizona - Arizona
+Arizona - Nevada
+Arizona - Utah
+
+Nevada - Arizona
+Nevada - Nevada
+Nevada - Idaho
+Nevada - Utah
+Nevada - Oregon
+
+Georgia - South Carolina
+Georgia - Georgia
+Georgia - Alabama
+Georgia - Tennessee
+Georgia - North Carolina
+
+Maine - Maine
+Maine - New Hampshire
+
+Michigan - Wisconsin
+Michigan - Indiana
+Michigan - Michigan
+Michigan - Illinois
+Michigan - Ohio
+Michigan - Minnesota
+
+Idaho - Montana
+Idaho - Nevada
+Idaho - Idaho
+Idaho - Washington
+Idaho - Utah
+Idaho - Oregon
+Idaho - Wyoming
+
+Nebraska - Colorado
+Nebraska - Nebraska
+Nebraska - South Dakota
+Nebraska - Kansas
+Nebraska - Iowa
+Nebraska - Missouri
+Nebraska - Wyoming
+
+
+Washington - Idaho
+Washington - Washington
+Washington - Oregon
+
+Louisiana - Louisiana
+Louisiana - Arkansas
+Louisiana - Texas
+Louisiana - Mississippi
+
+Illinois - Wisconsin
+Illinois - Indiana
+Illinois - Michigan
+Illinois - Illinois
+Illinois - Iowa
+Illinois - Missouri
+
+
+South Dakota - Montana
+South Dakota - Nebraska
+South Dakota - South Dakota
+South Dakota - Minnesota
+South Dakota - Iowa
+South Dakota - Wyoming
+South Dakota - North Dakota
+
+Alabama - Georgia
+Alabama - Alabama
+Alabama - Mississippi
+Alabama - Tennessee
+
+Ohio - Indiana
+Ohio - Michigan
+Ohio - Ohio
+Ohio - West Virginia
+Ohio - Pennsylvania
+
+Virginia - Maryland
+Virginia - District of Columbia
+Virginia - Virginia
+Virginia - West Virginia
+Virginia - Tennessee
+Virginia - North Carolina
+
+
+Kansas - Colorado
+Kansas - Oklahoma
+Kansas - Nebraska
+Kansas - Kansas
+Kansas - Missouri
+
+Delaware - New Jersey
+Delaware - Maryland
+Delaware - Delaware
+Delaware - Pennsylvania
+
+Minnesota - Wisconsin
+Minnesota - Michigan
+Minnesota - South Dakota
+Minnesota - Minnesota
+Minnesota - Iowa
+Minnesota - North Dakota
+
+New Hampshire - Vermont
+New Hampshire - Maine
+New Hampshire - New Hampshire
+New Hampshire - Massachusetts
+
+
+
+Arkansas - Oklahoma
+Arkansas - Louisiana
+Arkansas - Arkansas
+Arkansas - Texas
+Arkansas - Mississippi
+Arkansas - Missouri
+Arkansas - Tennessee
+
+West Virginia - Maryland
+West Virginia - Ohio
+West Virginia - Virginia
+West Virginia - West Virginia
+West Virginia - Pennsylvania
+
+Connecticut - Connecticut
+Connecticut - Massachusetts
+
+Pennsylvania - New Jersey
+Pennsylvania - Maryland
+Pennsylvania - Ohio
+Pennsylvania - Delaware
+Pennsylvania - West Virginia
+Pennsylvania - Pennsylvania
+
+
+Texas - Oklahoma
+Texas - New Mexico
+Texas - Louisiana
+Texas - Arkansas
+Texas - Texas
+
+Guam - Guam
+
+Iowa - Wisconsin
+Iowa - Nebraska
+Iowa - Illinois
+Iowa - South Dakota
+Iowa - Minnesota
+Iowa - Iowa
+Iowa - Missouri
+
+
+Utah - Colorado
+Utah - New Mexico
+Utah - Arizona
+Utah - Nevada
+Utah - Idaho
+Utah - Utah
+Utah - Wyoming
+
+Mississippi - Louisiana
+Mississippi - Alabama
+Mississippi - Arkansas
+Mississippi - Mississippi
+Mississippi - Tennessee
+
+
+Oregon - Nevada
+Oregon - Idaho
+Oregon - Washington
+Oregon - Oregon
+
+
+Massachusetts - Vermont
+Massachusetts - New Hampshire
+Massachusetts - Connecticut
+Massachusetts - Massachusetts
+
+
+Missouri - Oklahoma
+Missouri - Nebraska
+Missouri - Illinois
+Missouri - Kansas
+Missouri - Arkansas
+Missouri - Iowa
+Missouri - Missouri
+Missouri - Tennessee
+
+Tennessee - Georgia
+Tennessee - Alabama
+Tennessee - Virginia
+Tennessee - Arkansas
+Tennessee - Mississippi
+Tennessee - Missouri
+Tennessee - Tennessee
+Tennessee - North Carolina
+
+Wyoming - Colorado
+Wyoming - Montana
+Wyoming - Idaho
+Wyoming - Nebraska
+Wyoming - South Dakota
+Wyoming - Utah
+Wyoming - Wyoming
+
+North Dakota - Montana
+North Dakota - South Dakota
+North Dakota - Minnesota
+North Dakota - North Dakota
+
+North Carolina - South Carolina
+North Carolina - Georgia
+North Carolina - Virginia
+North Carolina - Tennessee
+North Carolina - North Carolina
+
