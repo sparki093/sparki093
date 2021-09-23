@@ -21,5 +21,17 @@ def add() -> None:
                                  "family_count":random.randint(1,5)}
         post_add(data)
 
-add()
-        
+#add()
+
+def add2() -> None:
+    data = [{"id":1,"latitude":round(random.uniform(0,70),2),"longitude":round(random.uniform(0,70),2),
+                                 "family_count":random.randint(1,5)},
+            {"id":4,"latitude":round(random.uniform(0,70),2),"longitude":round(random.uniform(0,70),2),
+                                 "family_count":random.randint(1,5)},
+            {"id":6,"latitude":round(random.uniform(0,70),2),"longitude":round(random.uniform(0,70),2),
+                                 "family_count":random.randint(1,5)},
+            {"id":41,"latitude":round(random.uniform(0,70),2),"longitude":round(random.uniform(0,70),2),
+                                 "family_count":random.randint(1,5)}]
+    post_add(data)
+
+add2()

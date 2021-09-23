@@ -7,16 +7,17 @@ def index():
     """ API для оновления или вставки новой записи в бд по по id  """
     if request.method == 'POST':
         data = request.get_json()
-        print(data)
-        ses = db.session.query(Houses).filter_by(house_id=data['id']).first()
-        if ses:
-            ses.latitude=data['latitude']
-            ses.longitude=data['longitude']
-            ses.family_count=data['family_count']
-        else:
-            db.session.add(Houses(latitude=data['latitude'],
-                            longitude=data['longitude'],family_count=data['family_count']))
-        db.session.commit()
+        for i in data:
+            print(i)
+            ses = db.session.query(Houses).filter_by(house_id=i['id']).first()
+            if ses:
+                ses.latitude=i['latitude']
+                ses.longitude=i['longitude']
+                ses.family_count=i['family_count']
+            else:
+                db.session.add(Houses(latitude=i['latitude'],
+                            longitude=i['longitude'],family_count=i['family_count']))
+            db.session.commit()
     return jsonify({'suc':'100'})
 
 @app.route('/')
